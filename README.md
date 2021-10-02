@@ -1,3 +1,4 @@
+<a id='ancor'></a>
 # Cofre
 
 - [Requisitos](#requisitos)
@@ -68,6 +69,7 @@ public class Runner {
 }
 
 ````
+[Back to top](#ancor)
 
 ## Relatório de Entrega
 
